@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+
+msgid "header.no"
+msgstr "لا تكول"
+
+msgid "header.hello"
+msgstr "مرحبا"
+
+msgid "header.subtitle"
+msgstr "لا تكتب بس هلو، السلام عليكم وتختفي"
+
+msgid "header.introduction"
+msgstr "خلي رسالتك كاملة، تخيل تتصل على واحد، تكوله هلو… وتختفي والاتصال بعدة مفتوح. 😅"
+
+msgid "example.character.neutral.name"
+msgstr "سيف"
+
+msgid "example.character.neutral.avatar-description"
+msgstr "صورة سيف الرمزية في سلاك"
+
+msgid "example.character.bad.name"
+msgstr "احمد"
+
+msgid "example.character.bad.avatar-description"
+msgstr "صورة احمد الرمزية في سلاك"
+
+msgid "example.character.good.name"
+msgstr "سيف"
+
+msgid "example.character.good.avatar-description"
+msgstr "صورة سيف الرمزية في سلاك"
+
+msgid "example.bad.title"
+msgstr "❌  مثال ياخذ وقت أكثر"
+
+# the placeholder is the year, i.e. "2022"
+msgid "example.bad.body"
+msgstr ""
+"أعرف إن أغلب الناس يبدون الرسالة بتحية من باب اللطافة والاحترام، وهذا شي أقدّره. لكن بالرسائل، لما نكتب التحية ونوكف، نخلي الطرف الثاني ينتظر، بينما لو كتبنا التحية وياها السؤال، نوصل أسرع ونوفّر وقت الطرفين."
+"\n"
+"\n"
+"نفس الشيء ينطبق على:\n"
+"\n"
+"- \"هلو، موجود؟\"\n"
+"- \"السلام عليكم… عندي سؤال سريع.\"\n"
+"- \"عندك دقيقة؟\"\n"
+"- إلخ.\n"
+"\n"
+"**فقط اسأل السؤال!** 😫\n"
+
+msgid "example.bad.message1.timestamp"
+msgstr "2:15 PM"
+
+msgid "example.bad.message1.body"
+msgstr "مرحبا"
+
+msgid "example.bad.reply1.timestamp"
+msgstr "2:19 PM"
+
+msgid "example.bad.reply1.body"
+msgstr "اهلا وسهلا، تفضل؟"
+
+msgid "example.bad.message2.timestamp"
+msgstr "2:20 PM"
+
+# the typo here is intentional - please maintain a similar unprofessional tone!
+msgid "example.bad.message2.body"
+msgstr "اريد اسألك سؤال؟"
+
+msgid "example.bad.reply2.timestamp"
+msgstr "2:20 PM"
+
+msgid "example.bad.reply2.body"
+msgstr "نعم تفضل؟"
+
+msgid "example.good.title"
+msgstr "✅  مثال يخلي التواصل اسرع"
+
+msgid "example.good.body"
+msgstr ""
+"إذا تحب تضيف التحية والمجاملات قبل السؤال، تكدر تسويها براحتك "
+"المهم إن السؤال او الاستفسار  يجي بنفس الرسالة، حتى لو الشخص "
+"مموجود يكدر يجاوب من يرجع، احسن من 'هلو' وما يعرف شنو الموضوع. وهيچ… الكل يكون مرتاح 🎉\n"
+"\n"
+"**📌 الخلاصة: سلّم… واسأل او استفسر بنفس الرسالة 😄**\n"
+"\n"
+
+msgid "example.good.message1.timestamp"
+msgstr "2:15 PM"
+
+msgid "example.good.message1.body"
+msgstr "مرحبا، عندي سؤال, وين راح تكون اليوم؟"
+
+msgid "example.good.reply1.timestamp"
+msgstr "2:15 PM"
+
+msgid "example.good.reply1.body"
+msgstr "اهلا وسهلا، اليوم راح اكون بالشركة."
+
+msgid "example.good.message2.timestamp"
+msgstr "2:15 PM"
+
+# "شكراً" is Arabic for "thanks"
+msgid "example.good.message2.body"
+msgstr "تمام شكرا الك."
+
+msgid "example.good.reply2.timestamp"
+msgstr "2:16 PM"
+
+msgid "example.good.reply2.body"
+msgstr "عفوا تتدلل."
+
+msgid "footer.note"
+msgstr "هذا نوعاً ما نصف جدي فقط (نوعاً ما 👀) لذا من فضلك لا [تغضب](https://www.youtube.com/watch?v=xzpndHtdl9A) من الشخص الذي أرسلك إلى هنا."
+
+msgid "footer.warning"
+msgstr "مع ذلك، إذا رأيت رابط هذا الموقع كحالة/سيرة ذاتية لشخص ما، كن مستعداً لأن يتم تجاهلك إذا قلت فقط \"مرحبا!\""
+
+msgid "footer.thanks"
+msgstr " [nohello.com](https://web.archive.org/web/20131127020115/http://www.nohello.com/).   مفتوح المصدر على [GitHub](https://github.com/nohello-net/site)."
