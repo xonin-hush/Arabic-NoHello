@@ -25,10 +25,10 @@ msgid "example.character.neutral.avatar-description"
 msgstr "صورة سيف الرمزية في سلاك"
 
 msgid "example.character.bad.name"
-msgstr "احمد"
+msgstr "عادل"
 
 msgid "example.character.bad.avatar-description"
-msgstr "صورة احمد الرمزية في سلاك"
+msgstr "صورة عادل الرمزية في سلاك"
 
 msgid "example.character.good.name"
 msgstr "احمد"
