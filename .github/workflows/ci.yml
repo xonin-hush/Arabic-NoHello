@@ -17,9 +17,9 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version-file: '.nvmrc'
-          cache: 'yarn'
-      - run: yarn install
-      - run: yarn test:unit
+          cache: 'npm'
+      - run: npm install
+      - run: npm run test:unit
 
   ui-test:
     runs-on: ubuntu-latest
@@ -28,11 +28,11 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version-file: '.nvmrc'
-          cache: 'yarn'
-      - run: yarn install
+          cache: 'npm'
+      - run: npm install
       - run: npx playwright install --with-deps chromium
       - run: fc-list
-      - run: yarn ci:ui
+      - run: npm run ci:ui
       - uses: actions/upload-artifact@v2
         if: always()
         with:
@@ -46,9 +46,9 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version-file: '.nvmrc'
-          cache: 'yarn'
-      - run: yarn install
-      - run: yarn lint
+          cache: 'npm'
+      - run: npm install
+      - run: npm run lint
 
   typecheck:
     runs-on: ubuntu-latest
@@ -57,6 +57,6 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version-file: '.nvmrc'
-          cache: 'yarn'
-      - run: yarn install
-      - run: yarn typecheck
+          cache: 'npm'
+      - run: npm install
+      - run: npm run typecheck
