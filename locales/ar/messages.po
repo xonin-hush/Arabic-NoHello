@@ -31,10 +31,10 @@ msgid "example.character.bad.avatar-description"
 msgstr "صورة احمد الرمزية في سلاك"
 
 msgid "example.character.good.name"
-msgstr "سيف"
+msgstr "احمد"
 
 msgid "example.character.good.avatar-description"
-msgstr "صورة سيف الرمزية في سلاك"
+msgstr "صورة احمد الرمزية في سلاك"
 
 msgid "example.bad.title"
 msgstr "❌  مثال ياخذ وقت أكثر"
@@ -116,11 +116,5 @@ msgstr "2:16 PM"
 msgid "example.good.reply2.body"
 msgstr "عفوا تتدلل."
 
-msgid "footer.note"
-msgstr "هذا نوعاً ما نصف جدي فقط (نوعاً ما 👀) لذا من فضلك لا [تغضب](https://www.youtube.com/watch?v=xzpndHtdl9A) من الشخص الذي أرسلك إلى هنا."
-
-msgid "footer.warning"
-msgstr "مع ذلك، إذا رأيت رابط هذا الموقع كحالة/سيرة ذاتية لشخص ما، كن مستعداً لأن يتم تجاهلك إذا قلت فقط \"مرحبا!\""
-
 msgid "footer.thanks"
-msgstr " [nohello.com](https://web.archive.org/web/20131127020115/http://www.nohello.com/).   مفتوح المصدر على [GitHub](https://github.com/nohello-net/site)."
+msgstr " الفكرة مأخوذة من[nohello.com](https://web.archive.org/web/20131127020115/http://www.nohello.com/).   مفتوح المصدر على [GitHub](https://github.com/nohello-net/site)."

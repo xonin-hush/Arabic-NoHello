@@ -2,14 +2,7 @@
 const { Typed } = window;
 
 const typed2 = new Typed('#strike', {
-  strings: [
-    'هلو',
-    'مرحبا',
-    'شلونك؟',
-    'hi',
-    'عندي سؤال',
-    'اخبارك',
-  ],
+  strings: ['هلو', 'مرحبا', 'شلونك؟', 'hi', 'عندي سؤال', 'اخبارك'],
   typeSpeed: 80,
   backSpeed: 60,
   smartBackspace: false,
